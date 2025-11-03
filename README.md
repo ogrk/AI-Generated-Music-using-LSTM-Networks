@@ -148,8 +148,8 @@ The Replit app provides an intuitive, minimal interface that lets anyone:
 
 ## 👥 Contributors
 
-- **Rishi [@ogrk](https://github.com/ogrk)** 
-- **Devarsh [@Devarsh-Raval](https://github.com/Devarsh-Raval)**   
+- **Rishi Kaushik [@ogrk](https://github.com/ogrk)** 
+- **Devarsh Raval [@Devarsh-Raval](https://github.com/Devarsh-Raval)**   
 
 ---
 
