@@ -147,8 +147,8 @@ The Replit app provides an intuitive, minimal interface that lets anyone:
 ---
 
 ## 👥 Contributors
-- **Rishi Kaushik [@yourgithub](https://github.com/yourgithub)** — Model development, training, and deployment.  
-- **Devarsh Raval [@theirgithub](https://github.com/theirgithub)** — Research, data preprocessing, and Replit web integration.  
+- **Rishi Kaushik @ogrk** — Model development, training, and deployment.  
+- **Devarsh Raval @Devarsh-Raval** — Research, data preprocessing, and Replit web integration.  
 
 ---
 
